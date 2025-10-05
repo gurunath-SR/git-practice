@@ -1,3 +1,4 @@
 print("git practice 1")
 print("git practice 2")
-print("git practice 2 updated")
+print("git practice 3")
+print(5+3)
